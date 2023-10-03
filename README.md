@@ -7,12 +7,17 @@ Ici, j'essaye de faire des #dataviz sur l'histoire du SRFC, les équipes, les en
 
 ## :dvd: **Résultats**
 
-### [ Résultat du SRFC depuis 20ans ]()
+### [ Résultat du SRFC depuis 20ans ](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
   - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
   - :blue_book: [Tweet](https://x.com/Roppick/status/1698657142377459940?s=20)
   
 ![Screenshot](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
 
+### [ Nombre de défaits par saison depuis 20 ans ](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
+  - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1698706271442985138?s=20)
+  
+![Screenshot](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
 ____
 ## 👶👴 **Moyenne d'âge**
   
