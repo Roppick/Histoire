@@ -4,6 +4,16 @@ Ici, j'essaye de faire des #dataviz sur l'histoire du SRFC, les équipes, les en
 :clipboard:`Pour ceux qui ne sont pas familiers avec Github, vous pouvez cliquer sur le menu pour naviguer dans le contenu`↗️:
 
 # **Club**
+
+## :dvd: **Résultats**
+
+### [ Résultat du SRFC depuis 20ans ]()
+  - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1698657142377459940?s=20)
+  
+![Screenshot](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
+
+____
 ## 👶👴 **Moyenne d'âge**
   
 ### [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
