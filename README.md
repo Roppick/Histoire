@@ -23,6 +23,14 @@ Ici, j'essaye de faire des #dataviz sur l'histoire du SRFC, les équipes, les en
 <img src=https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg alt="Défaites_20ans" width="600"/>
 </p>
 
+### [Elo dans l'histoire](https://github.com/Roppick/Histoire/blob/82d21ee09e4a8cd4b4e2cc3042131ee39ad0f4b1/23-04-13_Elo_92.png)
+  - :bar_chart: [clubelo](http://clubelo.com/Rennes)
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1647325342602756096?s=20)
+
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/82d21ee09e4a8cd4b4e2cc3042131ee39ad0f4b1/23-04-13_Elo_92.png alt="Elo_Histoire" width="600"/>
+</p>
+
 ____
 ## 👶👴 **Moyenne d'âge**
   
