@@ -44,3 +44,11 @@ ____
 <p align="center">
 <img src=https://github.com/Roppick/Histoire/blob/5159ae72d56b1319152e63df2d9505a9ea922153/23-08-28_Tableau_Doku_SRFC_3.jpg alt="Tableau_Doku" width="600"/>
 </p>
+
+### [_Doku_](23-08-26_Blessures et dribbles.png) - Des blessures et des dribbles
+  - :bar_chart: [Fbref]()
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1695406607562154202?s=20)
+
+<p align="center">
+<img src=23-08-26_Blessures et dribbles.png alt="Blessures_Doku" width="600"/>
+</p>
