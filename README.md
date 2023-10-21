@@ -10,28 +10,37 @@ Ici, j'essaye de faire des #dataviz sur l'histoire du SRFC, les équipes, les en
 ### [ Résultat du SRFC depuis 20ans ](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
   - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
   - :blue_book: [Tweet](https://x.com/Roppick/status/1698657142377459940?s=20)
-  
-![Screenshot](https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg)
+
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/7447b5d8429a2483295dc4d589f72d0b53e1d31c/23-09-04_Histoires_R%C3%A9sultats_20%20ans.jpg alt="Résultats_20ans" width="600"/>
+</p>
 
 ### [ Nombre de défaits par saison depuis 20 ans ](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
   - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
   - :blue_book: [Tweet](https://x.com/Roppick/status/1698706271442985138?s=20)
-  
-![Screenshot](https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg)
+
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/5a6c1718c676ea034592d72d09904a00c6aad957/23-09-04_Nombre%20de%20d%C3%A9faites_20%20ans.jpg alt="Défaites_20ans" width="600"/>
+</p>
+
 ____
 ## 👶👴 **Moyenne d'âge**
   
 ### [_Moyenne d'âge pondérée sur 10 saisons_](https://github.com/Roppick/2022-2023_Equipe/blob/df268d095b2bb0470b6cea81e0a1600c9e694492/23-08-06_R%C3%A9partition%20Tirs-Buts-xG_22-23_rogn%C3%A9.jpg)
   - :bar_chart: [fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
   - :blue_book: [Tweet](https://twitter.com/Roppick/status/1694752351897153873?s=20)
-  
-![Screenshot](https://github.com/Roppick/2022-2023_Equipe/blob/34c7b5f480c0e8991cecc070442e478d80d6907c/23-08-24_Age%20pond%C3%A9r%C3%A9.png)
+
+<p align="center">
+<img src=https://github.com/Roppick/2022-2023_Equipe/blob/34c7b5f480c0e8991cecc070442e478d80d6907c/23-08-24_Age%20pond%C3%A9r%C3%A9.png alt="Age_10ans" width="600"/>
+</p>
 
 ____
-# 👱‍♂️ **Joueurs**
+# **Joueurs**
 
 ### [_Doku_](https://github.com/Roppick/Histoire/blob/5159ae72d56b1319152e63df2d9505a9ea922153/23-08-28_Tableau_Doku_SRFC_3.jpg) - Un passage en chiffres
   - :bar_chart: [Fbref](https://fbref.com/en/squads/b3072e00/Rennes-Stats)
   - :blue_book: [Tweet](https://twitter.com/Roppick/status/1696270767388872835?s=20)
 
-![Screenshot](https://github.com/Roppick/Histoire/blob/5159ae72d56b1319152e63df2d9505a9ea922153/23-08-28_Tableau_Doku_SRFC_3.jpg)
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/5159ae72d56b1319152e63df2d9505a9ea922153/23-08-28_Tableau_Doku_SRFC_3.jpg alt="Tableau_Doku" width="600"/>
+</p>
