@@ -53,12 +53,12 @@ ____
 <img src=https://github.com/Roppick/Histoire/blob/25274de39d3968da11179259b8574193eb3bf413/23-08-26_Blessures%20et%20dribbles.png et dribbles.png alt="Blessures_Doku" width="600"/>
 </p>
 
-### [_Bourigeaud_](https://github.com/Roppick/Histoire/blob/73aa3772930e74151dfae6962c77c092e60ee253/23-10-21_Sankey_Circulaire_5_ans_Bouri_PD.png) - Ses passeurs
+### [_Bourigeaud_](https://github.com/Roppick/Histoire/blob/f9c5edb6b871b65f6c4ecdb29416828e0d646da1/23-10-21_Sankey_Circulaire_5_ans_Bouri_Buts.png) - Ses passeurs
   - :bar_chart: [Fbref](https://fbref.com/fr/joueurs/20e73fac/Benjamin-Bourigeaud)
   - :blue_book: [Tweet](https://x.com/Roppick/status/1715768732348223567?s=20)
 
 <p align="center">
-<img src=https://github.com/Roppick/Histoire/blob/73aa3772930e74151dfae6962c77c092e60ee253/23-10-21_Sankey_Circulaire_5_ans_Bouri_PD.png alt="Passeurs_Bouri" width="600"/>
+<img src=https://github.com/Roppick/Histoire/blob/f9c5edb6b871b65f6c4ecdb29416828e0d646da1/23-10-21_Sankey_Circulaire_5_ans_Bouri_Buts.png alt="Passeurs_Bouri" width="600"/>
 </p>
 
 ### [_Bourigeaud_]() - Du caviar pour tout le monde
