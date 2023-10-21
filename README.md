@@ -70,7 +70,7 @@ ____
 <img src=https://github.com/Roppick/Histoire/blob/f9c5edb6b871b65f6c4ecdb29416828e0d646da1/23-10-21_Sankey_Circulaire_5_ans_Bouri_Buts.png alt="Passeurs_Bouri" width="600"/>
 </p>
 
-### [_Bourigeaud_]() - Du caviar pour tout le monde
+### [_Bourigeaud_](https://github.com/Roppick/Histoire/blob/73aa3772930e74151dfae6962c77c092e60ee253/23-10-21_Sankey_Circulaire_5_ans_Bouri_PD.png) - Du caviar pour tout le monde
   - :bar_chart: [Fbref](https://fbref.com/fr/joueurs/20e73fac/Benjamin-Bourigeaud)
   - :blue_book: [Tweet](https://x.com/Roppick/status/1715768749192626668?s=20)
   - :white_check_mark: [Code](https://github.com/Roppick/Histoire/blob/b507ce61d6797e5aab226e7a2ff7cb88d8658017/23-10-21_Sankey_Ciculaire_SRFC_5%20ans_Bouri_PD.R)
