@@ -78,3 +78,19 @@ ____
 <p align="center">
 <img src=https://github.com/Roppick/Histoire/blob/73aa3772930e74151dfae6962c77c092e60ee253/23-10-21_Sankey_Circulaire_5_ans_Bouri_PD.png alt="Caviar_Bouri" width="600"/>
 </p>
+
+### [_Doué_](https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-04_Passes%20et%20Dribbles.jpg) - Passes et Dribbles
+  - :bar_chart: [Fbref](https://fbref.com/fr/joueurs/9e7483ff/Desire-Doue)
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1699191520350405115?s=20)
+
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-04_Passes%20et%20Dribbles.jpg alt="Doué_Passes&Dribbles" width="600"/>
+</p>
+
+### [_Doué_](https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-05_Distance%20et%20Pertes.jpg) - Distance et Pertes
+  - :bar_chart: [Fbref](https://fbref.com/fr/joueurs/9e7483ff/Desire-Doue)
+  - :blue_book: [Tweet](https://x.com/Roppick/status/1699191520350405115?s=20)
+
+<p align="center">
+<img src=https://github.com/Roppick/Histoire/blob/ff34c6a3a05e8d65caa6548ff046d3381efc649f/23-09-05_Distance%20et%20Pertes.jpg alt="Doué_Passes&Dribbles" width="600"/>
+</p>
